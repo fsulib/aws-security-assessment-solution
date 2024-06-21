@@ -4,7 +4,7 @@ Parameters:
   ProwlerAccountID:
     Description: 'Specifies the account ID where Prowler will run from.'
     Type: String
-    Default: '012345678910'
+    Default: '221883031638'
     AllowedPattern: \d{12}
     ConstraintDescription: Enter the 12 digit account ID with no spaces.
 
